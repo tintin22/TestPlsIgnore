@@ -1,1 +1,1 @@
-ddasd
+textura = res/tamk.bmp
